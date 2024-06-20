@@ -75,3 +75,12 @@ font-size: 24px;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+
+.rodape{
+    background-color: #070707;
+    text-align: center;
+}
+
+.rodape-imagem{
+    width: 25%;
+}
